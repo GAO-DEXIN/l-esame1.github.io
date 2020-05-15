@@ -75,3 +75,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/BezierPlugin.min.js" integrity="sha256-dER4oK6DpzhXzvohNcU0SRXMVUde/UEg1+mj5EIVkIg=" crossorigin="anonymous"></script>
     <script src="app.js"></script>
 </body>
+</html>
